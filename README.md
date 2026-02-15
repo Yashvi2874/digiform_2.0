@@ -1,5 +1,5 @@
 # DigiForm: WHERE IDEAS TAKE SHAPE
-
+<img width="2559" height="1308" alt="image" src="https://github.com/user-attachments/assets/939f0d33-a2e2-43e4-9b66-e13befeded96" />
 An integrated AI-powered platform that transforms natural language into engineering-ready designs with CAD generation, simulation, digital twins, inspection, and predictive maintenance.
 
 ## The Problem

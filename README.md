@@ -153,10 +153,6 @@ DigiForm makes mechanical design more accessible and efficient by:
 - Enabling non-mechanical engineers to bring their ideas to life
 - Allowing mechanical engineers to focus on innovation instead of tool management
 
-## Contributing
-
-We welcome contributions! Please see our contributing guidelines for details on how to submit pull requests, report issues, and suggest improvements.
-
 ## Copyright
 
 Copyright (c) 2025 DigiForm Contributors. All rights reserved.
